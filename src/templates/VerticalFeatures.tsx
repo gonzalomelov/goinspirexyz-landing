@@ -3,27 +3,27 @@ import { Section } from '../layout/Section';
 
 const VerticalFeatures = () => (
   <Section
-    title="Your title here"
-    description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus malesuada nisi tellus, non imperdiet nisi tempor at."
+    title="How gosolve.xyz Works"
+    description="Leverage AI-driven simulations to solve problems and achieve your goals in group chats."
   >
     <VerticalFeatureRow
-      title="Your title here"
-      description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum, nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim."
-      image="/assets/images/feature.svg"
-      imageAlt="First feature alt text"
+      title="Set Up Your Simulation"
+      description="Specify your problem, target audience, and group chat details. Our platform uses XMTP to create a secure, decentralized chat environment."
+      image="/assets/images/feature-setup.png"
+      imageAlt="Setup feature"
     />
     <VerticalFeatureRow
-      title="Your title here"
-      description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum, nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim."
-      image="/assets/images/feature2.svg"
-      imageAlt="Second feature alt text"
+      title="AI-Powered Conversations"
+      description="Our multi-agent system, powered by Galadriel, uses web search and RAG models to guide conversations naturally towards your desired outcome."
+      image="/assets/images/feature-ai.png"
+      imageAlt="AI feature"
       reverse
     />
     <VerticalFeatureRow
-      title="Your title here"
-      description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum, nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim."
-      image="/assets/images/feature3.svg"
-      imageAlt="Third feature alt text"
+      title="Privacy and Security"
+      description="Lit Protocol manages private data, ensuring only necessary AI bots access sensitive information. Envio integrates public onchain data for relevant strategies."
+      image="/assets/images/feature-security.png"
+      imageAlt="Security feature"
     />
   </Section>
 );

@@ -1,6 +1,7 @@
 export const AppConfig = {
-  site_name: 'Starter',
-  title: 'Nextjs Starter',
-  description: 'Starter code for your Nextjs Boilerplate with Tailwind CSS',
+  site_name: 'gosolve.xyz',
+  title: 'gosolve.xyz - AI-Driven Group Chat Simulations',
+  description:
+    'Solve problems in group chats using onchain AI-driven simulations',
   locale: 'en',
 };
