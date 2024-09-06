@@ -23,11 +23,10 @@ const Logo = (props: ILogoProps) => {
         strokeLinecap="round"
         strokeLinejoin="round"
       >
-        <path d="M0 0h24v24H0z" stroke="none" />
-        <rect x="3" y="12" width="6" height="8" rx="1" />
-        <rect x="9" y="8" width="6" height="12" rx="1" />
-        <rect x="15" y="4" width="6" height="16" rx="1" />
-        <path d="M4 20h14" />
+        <path d="M9 21h6" />
+        <path d="M10 24h4" />
+        <path d="M15.5 5.5l1.5 1.5" />
+        <path d="M12 4a6 6 0 0 1 6 6c0 3-3 5-3 7h-6c0-2-3-4-3-7a6 6 0 0 1 6-6z" />
       </svg>
 
       {AppConfig.site_name}
