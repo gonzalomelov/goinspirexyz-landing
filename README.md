@@ -1,51 +1,51 @@
-# gosolve.xyz - AI-Driven Group Chat Simulations
+# goinspire.xyz - Onchain Inspirers Collective
 
 <p align="center">
-  <img src="public/assets/images/gosolve-banner.png?raw=true" alt="gosolve.xyz banner">
+  <img src="public/assets/images/goinspire-banner.png?raw=true" alt="goinspire.xyz banner">
 </p>
 
-🚀 gosolve.xyz is a platform that lets users run AI-driven simulations in group chats to solve problems or achieve specific goals.
+🚀 goinspire.xyz is a platform that empowers users to create AI-driven inspirational experiences in group chats to motivate people towards achieving their goals and realizing their dreams.
 
 ## Features
 
-- Set up AI-driven simulations in group chats
+- Create uplifting and motivational AI-driven scenarios in group chats
 - Secure and decentralized chat environment using XMTP
-- Multi-agent system powered by Galadriel for natural conversations
+- Multi-agent system powered by Galadriel for natural, uplifting conversations
 - Privacy management with Lit Protocol
-- Integration of public onchain data via Envio
+- Integration of public onchain data via Envio to personalize inspiration
 
 ## Demo
 
-Check out our [live demo](https://chatgpt.com/share/a82cd598-4e6a-4511-8ad6-6b888ddce0a2) to see gosolve.xyz in action!
+Experience the power of inspiration! Check out our [live demo](https://chatgpt.com/share/a82cd598-4e6a-4511-8ad6-6b888ddce0a2) to see goinspire.xyz in action!
 
 ## Getting Started
 
-To get started with gosolve.xyz, follow these steps:
+To get started with goinspire.xyz, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/gonzalomelov/gosolve-xyz.git
+   git clone https://github.com/gonzalomelov/goinspire-xyz.git
    ```
 
 2. Install dependencies:
    ```
-   cd gosolve-xyz
+   cd goinspire-xyz
    npm install
    ```
 
 3. Run the development server:
    ```
    npm run dev
-   ```Technologies Used
+   ```
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
 
 ## Technologies Used
 
-- [XMTP](https://xmtp.org/)
-- [Galadriel](https://galadriel.com/)
-- [Lit Protocol](https://litprotocol.com/)
-- [Envio](https://envio.com/)
+- [XMTP](https://xmtp.org/) for secure, decentralized messaging
+- [Galadriel](https://galadriel.com/) for creating inspiring multi-agent conversations
+- [Lit Protocol](https://litprotocol.com/) for managing privacy and access control
+- [Envio](https://envio.com/) for integrating relevant onchain data
 
 ## Project Structure
 
@@ -57,7 +57,7 @@ To get started with gosolve.xyz, follow these steps:
 
 ## Contributing
 
-This project is currently maintained by the sole contributor, [gonzalomelov](https://github.com/gonzalomelov). While external contributions are not being accepted at this time, feedback and suggestions are always welcome.
+This project is currently maintained by the sole contributor, [gonzalomelov](https://github.com/gonzalomelov). While external contributions are not being accepted at this time, we welcome your ideas and feedback on how to make goinspire.xyz even more inspiring!
 
 ## License
 
@@ -65,7 +65,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Created by [gonzalomelov](https://github.com/gonzalomelov) at ETHOnline 2024
-- Special thanks to all the technologies and protocols that made this project possible
+- Created with passion by [gonzalomelov](https://github.com/gonzalomelov) at ETHOnline 2024
+- Special thanks to all the technologies and protocols that made this inspiring project possible
 
-For more information, visit [gosolve.xyz](https://gosolve.xyz) or contact gonzalomelov directly via GitHub.
+For more information or to start your journey of inspiration, visit [goinspire.xyz](https://goinspire.xyz) or contact gonzalomelov directly via GitHub.

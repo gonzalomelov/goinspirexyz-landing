@@ -12,7 +12,9 @@ const Hero = () => (
     <Section yPadding="py-6">
       <NavbarTwoColumns logo={<Logo xl />}>
         <li>
-          <Link href="https://github.com/gonzalomelov/gosolvexyz">GitHub</Link>
+          <Link href="https://github.com/gonzalomelov/goinspirexyz">
+            GitHub
+          </Link>
         </li>
         <li>
           <Link href="/demo">Demo</Link>
@@ -24,16 +26,16 @@ const Hero = () => (
       <HeroOneButton
         title={
           <>
-            {'Solve problems in group chats using\n'}
+            {'Inspire and motivate in group chats with\n'}
             <span className="text-primary-500">
-              onchain AI-driven simulations
+              onchain AI-driven experiences
             </span>
           </>
         }
-        description="Influence conversations naturally with AI-powered agents in secure, decentralized group chats."
+        description="Empower conversations naturally with AI-powered agents in secure, decentralized group chats to create transformative inspirational experiences."
         button={
           <Link href="/get-started">
-            <Button xl>Get Started</Button>
+            <Button xl>Start Inspiring</Button>
           </Link>
         }
       />

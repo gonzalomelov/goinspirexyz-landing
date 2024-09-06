@@ -7,11 +7,11 @@ import { Section } from '../layout/Section';
 const Banner = () => (
   <Section>
     <CTABanner
-      title="Ready to revolutionize your group chat problem-solving?"
-      subtitle="Try gosolve.xyz today and experience the power of AI-driven simulations."
+      title="Ready to create transformative inspirational experiences?"
+      subtitle="Try goinspire.xyz today and unleash the power of AI-driven motivation in your group chats."
       button={
         <Link href="/get-started">
-          <Button>Start Your First Simulation</Button>
+          <Button>Start Your First Experience</Button>
         </Link>
       }
     />

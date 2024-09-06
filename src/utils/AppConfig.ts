@@ -1,7 +1,7 @@
 export const AppConfig = {
-  site_name: 'gosolve.xyz',
-  title: 'gosolve.xyz - AI-Driven Group Chat Simulations',
+  site_name: 'goinspire.xyz',
+  title: 'goinspire.xyz - AI-Driven Inspirational Group Chat Experiences',
   description:
-    'Solve problems in group chats using onchain AI-driven simulations',
+    'Inspire and motivate through group chats using onchain AI-driven experiences',
   locale: 'en',
 };
