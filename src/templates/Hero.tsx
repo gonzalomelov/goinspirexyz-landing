@@ -11,14 +11,14 @@ const Hero = () => (
   <Background color="bg-gray-100">
     <Section yPadding="py-6">
       <NavbarTwoColumns logo={<Logo xl />}>
-        <li>
+        {/* <li>
           <Link href="https://github.com/gonzalomelov/goinspirexyz">
             GitHub
           </Link>
-        </li>
-        {/* <li>
-          <Link href="/demo">Demo</Link>
         </li> */}
+        <li>
+          <Link href="https://app.goinspire.xyz">Launch App</Link>
+        </li>
       </NavbarTwoColumns>
     </Section>
 

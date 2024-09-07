@@ -71,7 +71,7 @@ const Footer = () => (
           </Link>
         </li>
         <li>
-          <Link href="/demo">Demo</Link>
+          <Link href="https://app.goinspire.xyz">Launch App</Link>
         </li>
       </CenteredFooter>
     </Section>
