@@ -34,7 +34,7 @@ const Hero = () => (
         }
         description="Empower conversations naturally with AI-powered agents in secure, decentralized group chats to create transformative inspirational experiences."
         button={
-          <Link href="/get-started">
+          <Link href="https://app.goinspire.xyz">
             <Button xl>Start Inspiring</Button>
           </Link>
         }
