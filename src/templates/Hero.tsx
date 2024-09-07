@@ -17,7 +17,9 @@ const Hero = () => (
           </Link>
         </li> */}
         <li>
-          <Link href="https://app.goinspire.xyz">Launch App</Link>
+          <Link href="https://app.goinspire.xyz">
+            <Button xl>Launch App</Button>
+          </Link>
         </li>
       </NavbarTwoColumns>
     </Section>
